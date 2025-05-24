@@ -1,21 +1,30 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/saurabhag1)
 <h1 align="center">Hi 👋, I'm Saurabh Agrawal</h1>
-<h3 align="center">A passionate FullStack Developer from India (PUNE)</h3>
+<h3 align="center">A passionate *DevOps/Cloud Engineer from India (PUNE)</h3>
 
 
 
 
-- 🔭 I’m currently working on **MERN STACK PROJECTS**
+Absolutely! Here's a revised version of your profile tailored for a **DevOps/Cloud Engineer** with AWS and multi-cloud knowledge, while keeping the same energetic and friendly tone:
 
-- 🌱 I’m currently learning **MERN,React js, Next jS, Full Stack , DEV Ops**
+---
 
-- 👨‍💻 All of my projects are available at [saurabhagrawal-portfolio-website-theta-three.vercel.app/](saurabhagrawal-portfolio-website-theta-three.vercel.app/)
+* 🔭 I’m currently working on **Cloud Infrastructure & DevOps Projects**
 
-- 💬 Ask me about **React , Node jS, Programming, Full Stack**
+* 🌱 I’m currently learning **AWS, Azure, GCP, Kubernetes, Terraform, CI/CD, GitOps, and SRE best practices**
 
-- 📫 How to reach me **sourabhagrawal2000@gmail.com**
+* 👨‍💻 All of my work and projects are available at: [saurabhagrawal-portfolio-website-theta-three.vercel.app](https://saurabhagrawal-portfolio-website-theta-three.vercel.app)
 
-- ⚡ Fun fact **I love Chai with Code😀**
+* 💬 Ask me about **AWS, DevOps, Kubernetes, Infrastructure as Code, CI/CD Pipelines, and Multi-cloud Strategies**
+
+* 📫 How to reach me: **\[sourabhagrawal2000@gmail.com]**
+
+* ⚡ Fun fact: **I automate things so I can enjoy more Chai while watching my pipelines run ☕🚀**
+
+---
+
+Let me know if you'd like to include certifications (like AWS Solutions Architect or Terraform Associate), specific tools (like ArgoCD, Helm, Ansible), or links to your GitHub/LinkedIn as well!
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
