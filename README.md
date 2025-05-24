@@ -5,8 +5,6 @@
 
 
 
-Absolutely! Here's a revised version of your profile tailored for a **DevOps/Cloud Engineer** with AWS and multi-cloud knowledge, while keeping the same energetic and friendly tone:
-
 ---
 
 * 🔭 I’m currently working on **Cloud Infrastructure & DevOps Projects**
@@ -23,7 +21,6 @@ Absolutely! Here's a revised version of your profile tailored for a **DevOps/Clo
 
 ---
 
-Let me know if you'd like to include certifications (like AWS Solutions Architect or Terraform Associate), specific tools (like ArgoCD, Helm, Ansible), or links to your GitHub/LinkedIn as well!
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
